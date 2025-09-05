@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Honda Dream Yug Tracker",
+  "description": "A futuristic bike tracking dashboard for the Honda Dream Yug 2014. It tracks speed, distance, fuel consumption, and estimated range using the browser's GPS, with a design inspired by Google's Material Design 3 and Honda's branding.",
+  "requestFramePermissions": []
+}
